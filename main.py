@@ -5,7 +5,7 @@ import threading
 
 threds = []
 
-bot = Bot('5231843045:AAG6fTCGBbmr_OuQ-n4VPTWsGclsqg-MMAw')
+bot = Bot('5282070858:AAEl5jO3Y4i9Sb8Q8Z4-6jUb3cYFMbgbpek')
 dp = Dispatcher(bot)
 
 @dp.message_handler(commands=['start'])
